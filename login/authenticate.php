@@ -1,10 +1,10 @@
 <?php
 session_start();
 // Change this to your connection info.
-$DATABASE_HOST = 'localhost';
-$DATABASE_USER = 'root';
-$DATABASE_PASS = '';
-$DATABASE_NAME = 'qbcore';
+$DATABASE_HOST = '162.19.139.137';
+$DATABASE_USER = 'u38279_dSjbhv02gS';
+$DATABASE_PASS = 'Udtk55h7GYIh3gL4cQ6w14Qp';
+$DATABASE_NAME = 'u38279_dSjbhv02gS';
 // Try and connect using the info above.
 $con = mysqli_connect($DATABASE_HOST, $DATABASE_USER, $DATABASE_PASS, $DATABASE_NAME);
 if ( mysqli_connect_errno() ) {

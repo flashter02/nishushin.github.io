@@ -18,7 +18,7 @@
   <div class="content">
     <div class="container-2 w-container">
       <div>
-        <a data-w-id="fd97c34e-0ce6-5332-f83e-8075cd6b6278" style="opacity:0" href="https://flashter02.github.io/login/index.html" class="button w-button">Register</a>
+        <a data-w-id="fd97c34e-0ce6-5332-f83e-8075cd6b6278" style="opacity:0" href="https://flashter02.github.io/nishushin.github.io/login/index.html" class="button w-button">Register</a>
       </div>
     </div>
     <div class="header-logo w-container">
